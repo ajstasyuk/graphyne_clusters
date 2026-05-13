@@ -1,0 +1,8 @@
+# Python dependencies for graphyne-clusters project
+# Tested in a Conda environment (Python 3.11)
+
+numpy    (ver. 2.4.4)
+scipy    (ver. 1.17.1)
+networkx (ver. 3.6.1)
+rdkit    (ver. 26.3.1)
+tqdm     (ver. 4.67.3)
