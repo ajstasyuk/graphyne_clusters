@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Second Stage: Graphyne Clusters Generator
+Second Stage: Graphyne Sheet Cluster Generator
 
 This script takes the cleaned graphyne sheet produced by the first script
 (graphyne_connectivity.xyz) and cuts it into smaller triangular clusters
