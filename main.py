@@ -10,7 +10,10 @@ This script coordinates the complete graphyne workflow:
 4. Add hydrogens to final unique clusters (Stage 4)
 
 Usage:
-    python3 run_graphyne_pipeline.py -n structure.xyz -c 8
+    python3 main.py -n structure.xyz -c 8 -o output
+    where -n or --name is input XYZ file
+          -c or --cpu  is number of CPU cores
+          -o or --output-dir main output directory
 
 """
 import argparse
